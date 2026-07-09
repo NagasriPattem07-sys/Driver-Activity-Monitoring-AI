@@ -6,3 +6,4 @@ xgboost
 plotly
 reportlab
 joblib
+fpdf2
